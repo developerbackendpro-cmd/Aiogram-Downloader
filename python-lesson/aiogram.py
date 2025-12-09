@@ -3,7 +3,7 @@ import re
 from aiogram import Bot, Dispatcher, executor, types
 from yt_dlp import YoutubeDL
 
-TOKEN = "8023296312:AAFZvasvkaPKwvmfkPHXf5Q7AmoDaJLSvNg"
+TOKEN = ""
 DOWNLOAD_DIR = "downloads"
 LIMIT = 50 * 1024 * 1024
 bot = Bot(TOKEN)
